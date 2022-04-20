@@ -1,5 +1,5 @@
 #price-compare
-Website for comparing item prices between supermarkets.
+This is a website for comparing item prices between supermarkets. It is also a side project mainly to improve my frontend development skills and my thought process when approaching and implementing an idea. 
 
 Use Cases:
 1. As a user, I want to be able to see the prices for a particular item so I know which supermarket has the item at the cheapest price
@@ -18,4 +18,4 @@ Scope
 Future Additions:
 - Price trends of the item (show graphs)
 - Omit brand names from the catalogue (brand blocklist for a particular user)
-- 
+- Notify users on when the catalogues have updated (Wednesday?)
